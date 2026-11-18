@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: DI2 P2–P3 Docs
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -10,7 +10,8 @@ configuration:
   baseUrl: diiagecucdb.github.io/di2-p2-p3-e2-docs
   ignorePatterns:
     - private
-    - templates
+    - _templates
+    - "**/_templates"
     - .obsidian
   theme:
     fontOrigin: googleFonts
