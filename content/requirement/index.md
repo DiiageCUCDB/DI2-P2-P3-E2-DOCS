@@ -8,7 +8,7 @@ tags:
 # Identité et accès — projet Caltech
 
 > [!info] DIIAGE / M1 / DI2 P2–P3
-> Cours de Gaultier Large. On suit la demande de **Léa**, qui ouvre **Caltech** pour consulter son dossier étudiant, et on enrichit le flux à chaque nouveau besoin.
+> On suit la demande de **Léa**, qui ouvre **Caltech** pour consulter son dossier étudiant, et on enrichit le flux à chaque nouveau besoin.
 
 ## Les acteurs du fil rouge
 
