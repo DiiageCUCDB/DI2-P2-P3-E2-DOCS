@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!info] DIIAGE / M1 / DI2 P2–P3
-> Course by Gaultier Large. We follow the request of **Léa**, who opens **Caltech** to view her student record, and enrich the flow with each new need.
+> We follow the request of **Léa**, who opens **Caltech** to view her student record, and enrich the flow with each new need.
 
 ## The actors of the running example
 
