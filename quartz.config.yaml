@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: diiagecucdb.github.io/di2-p2-p3-e2-docs
+  baseUrl: diiagecucdb.github.io/DI2-P2-P3-E2-DOCS
   ignorePatterns:
     - private
     - templates
