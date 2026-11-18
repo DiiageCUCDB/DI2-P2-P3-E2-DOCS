@@ -10,7 +10,6 @@ Things the repository does not answer yet. Tick them off as the docs get complet
 
 - [ ] Describe the **functional purpose** of OCID and its users (update [[Home]])
 - [ ] Replace the Vite placeholder in `App.vue` ("You did it!") and update the [[Component Tests]] and the [[E2E Gherkin Tests]] feature that assert it
-- [ ] `App.vue` uses the class `bg-blue-500` but **Tailwind is not installed**: decide to add Tailwind or switch to SCSS
 - [ ] Add `<RouterView />` and the first routes ([[Routing]])
 - [ ] Document the back-end API contract and the value of `VITE_API_URL` ([[Environment Variables]])
 - [ ] Document the content of branch `origin/feat/apiClient` (API client init) once merged
