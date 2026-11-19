@@ -21,7 +21,7 @@ The dev server runs on **http://localhost:5173** with hot reload.
 
 ## Verify the setup
 
-1. Open http://localhost:5173: the page shows the heading "You did it!" (current placeholder, see [[ocid-frontend/open-points|Open Points]]).
+1. Open http://localhost:5173: the page shows up.
 2. Run `npm run lint` and `npm run type-check`: both should pass.
 3. Run `npm run test:e2e`: the `@smoke` home scenario should pass, see [[04-testing/e2e-gherkin-tests|E2E Gherkin Tests]].
 

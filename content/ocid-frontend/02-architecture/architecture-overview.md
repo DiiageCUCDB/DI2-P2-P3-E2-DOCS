@@ -30,10 +30,9 @@ flowchart LR
   main --> router[src/router]
   router --> views[src/views]
   views --> ui[src/components/ui]
-  views --> hooks[src/hooks]
-  hooks --> lib[src/lib]
-  views --> ctx[src/contexts]
-  hooks --> types[src/types]
+  views --> composables[src/composable]
+  composable --> lib[src/lib]
+  composable --> types[src/types]
 ```
 
 `main.ts` imports `main.scss`, creates the Vue app, installs the router and mounts on `#app`.

@@ -8,12 +8,12 @@ tags:
 
 The project uses **Authorization Code with PKCE**.
 
-| Flow | Use |
-|---|---|
-| **Authorization Code + PKCE** | The flow chosen for the Caltech journeys. OIDC extends it to authenticate Léa to Caltech. |
-| **Client Credentials** | Useful in some service-to-service exchanges. The subject represented is the client, with no interactive user. |
-| **Implicit** | Legacy flow. Current practice favors exchanging a code at the `/token` endpoint. |
-| **Password Grant** | Absent from the project. Current recommendations forbid using it. |
+| Flow                          | Use                                                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Authorization Code + PKCE** | The flow chosen for the Caltech journeys. OIDC extends it to authenticate Léa to Caltech.                     |
+| **Client Credentials**        | Useful in some service-to-service exchanges. The subject represented is the client, with no interactive user. |
+| **Implicit**                  | Legacy flow. Current practice favors exchanging a code at the `/token` endpoint.                              |
+| **Password Grant**            | Absent from the project. Current recommendations forbid using it.                                             |
 
 ---
 

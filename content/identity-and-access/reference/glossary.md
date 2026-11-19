@@ -6,7 +6,7 @@ tags:
   - topic/reference
 ---
 
-Vocabulary used in the course. Each term is linked from the notes that use it.
+Vocabulary used. Each term is linked from the notes that use it.
 
 ## Roles and channels
 

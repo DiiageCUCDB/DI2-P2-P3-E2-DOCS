@@ -12,8 +12,7 @@ The folders below currently only contain a `.gitkeep`. This note defines **what 
 | ------ | -------- | --------------- |
 | `views/` | One component per page/route (`HomeView.vue`, ...). Assembles components and calls hooks. | Reusable widgets |
 | `components/ui/` | Generic, reusable UI pieces (buttons, inputs, modals, cards). Props in, events out. | Business logic, API calls |
-| `hooks/` | Vue composables `useXxx.ts` wrapping reusable logic (API calls, forms, state helpers). | Pure helpers with no Vue reactivity |
-| `contexts/` | State shared across distant components via `provide`/`inject` (session, theme, ...). | Local component state |
+| `composable/` | Vue composables `useXxx.ts` wrapping reusable logic (API calls, forms, state helpers). | Pure helpers with no Vue reactivity |
 | `lib/` | Pure functions, constants, HTTP client, formatters. No Vue dependency. | Composables |
 | `types/` | Shared TypeScript types and interfaces (data models, API responses). Entry: `types/index.ts`. | Runtime code |
 | `router/` | Route table and guards. See [[Routing]]. | Page content |

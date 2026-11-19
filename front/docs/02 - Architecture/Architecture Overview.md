@@ -30,7 +30,6 @@ flowchart LR
   views --> ui[src/components/ui]
   views --> hooks[src/hooks]
   hooks --> lib[src/lib]
-  views --> ctx[src/contexts]
   hooks --> types[src/types]
 ```
 

@@ -14,16 +14,14 @@ The `content/` folder is both an **Obsidian vault** (open `content/` as the vaul
 content/
 ├── index.md                  landing page
 ├── conventions.md            this note
+├── requirement/
 ├── identity-and-access/      the course
 │   ├── index.md              course outline
 │   ├── 00-introduction/ … 06-passkeys-webauthn/
-│   │   └── index.md          chapter page, notes grouped by role
-│   ├── 07-hands-on/          project brief, workshop, denial tests
 │   └── reference/            glossary, flow summary, external references
 ├── ocid-frontend/            front-end documentation
 │   ├── index.md              map of content
 │   ├── 01-getting-started/ … 05-devops/
-│   └── open-points.md
 └── _templates/               Obsidian templates, not published
 ```
 

@@ -31,9 +31,6 @@ npm run test:unit       # headless
 npm run test:unit:dev   # interactive
 ```
 
-> [!note]
-> Update this test when the placeholder in `App.vue` is replaced, see [[ocid-frontend/open-points|Open Points]].
-
 ---
 
 %% footer %%

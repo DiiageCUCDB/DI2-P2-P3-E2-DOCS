@@ -24,8 +24,6 @@ Fully automated with **semantic-release** (config: `.releaserc`, branch `main` o
 - Release published: Docker image pushed, see [[05-devops/ci-cd-pipelines|CI/CD Pipelines]].
 - Only `chore:`/`docs:`/`ci:` commits: nothing happens.
 
-History so far: `1.0.0-init.1` then `1.0.0` (2026-11-17).
-
 > [!warning]
 > Never edit `CHANGELOG.md` or the `version` field manually.
 

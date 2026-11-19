@@ -37,7 +37,7 @@ In `App.vue`, otherwise the route shows nothing.
 
 ## 4. Extract reusable pieces
 
-Widgets to `src/components/ui/`, logic to `src/hooks/`, see [[02-architecture/source-folders|Source Folders]].
+Widgets to `src/components/ui/`, logic to `src/composables/`, see [[02-architecture/source-folders|Source Folders]].
 
 ## 5. Describe it in Gherkin
 

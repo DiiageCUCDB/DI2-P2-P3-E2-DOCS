@@ -17,14 +17,11 @@ const router = createRouter({
 })
 ```
 
-The route table is **empty** for now. Pages will live in `src/views/` ([[02-architecture/source-folders|Source Folders]]) and be registered here ([[03-development/how-to-add-a-page|How to Add a Page]]).
+Pages live in `src/views/` ([[02-architecture/source-folders|Source Folders]]) and be registered here ([[03-development/how-to-add-a-page|How to Add a Page]]).
 
 ## History mode and the server
 
 History mode needs the server to return `index.html` for unknown paths. `nginx.conf` does this with `try_files $uri $uri/ /index.html`, see [[05-devops/docker|Docker]].
-
-> [!note] `<RouterView>`
-> `App.vue` does not render a `<RouterView />` yet. It must be added before routes become visible.
 
 ---
 

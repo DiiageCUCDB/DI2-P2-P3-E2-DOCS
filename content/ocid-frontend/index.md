@@ -8,9 +8,6 @@ tags:
   - topic/ocid-frontend
 ---
 
-> [!todo] Project purpose
-> The repository does not describe what OCID does functionally yet. Fill this in: see [[ocid-frontend/open-points|Open Points]].
-
 Front-end web application of the **DI2-P2P3-E2-OCID** project (GitHub org `DiiageCUCDB`), built with Vue 3, TypeScript and Vite.
 
 ## Quick start
@@ -71,10 +68,6 @@ All scripts: [[01-getting-started/npm-scripts|npm Scripts]].
 - [[05-devops/release-process|Release Process]] — Automated releases with semantic-release.
 - [[05-devops/environment-variables|Environment Variables]] — `VITE_*` variables and where they are set.
 - [[05-devops/code-quality-services|Code Quality Services]] — SonarCloud and CodeRabbit setup.
-
-### Status
-
-- [[ocid-frontend/open-points|Open Points]] — Questions the repository does not answer yet.
 
 ---
 
